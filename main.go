@@ -1,1 +1,7 @@
-package awesomeProject
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("43")
+}
